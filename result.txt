@@ -1,0 +1,2 @@
+Training    Test_with_stopwords    Test_without_stopwords
+ 98.92              96.65	            	    95.82
